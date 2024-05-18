@@ -1,0 +1,14 @@
+/* Button login */
+.btn-hover {
+	color: #fff;
+	border-radius: 50px !important;
+	background-color: #263D89 !important;
+	border-color:  #263D89 !important;
+}
+
+.btn-hover:hover {
+	transition: transform 0.5s ease;
+	background-color: #236D89 !important;
+	border-color:  #236D89 !important;
+	transform: scale(1.05);
+}
